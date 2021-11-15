@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="C" width="26px" src="https://camo.githubusercontent.com/6cc41155e58a4eebe7353d524da5ebb0de7aaf4fd4ad45fb9a433c8b41d38c16/68747470733a2f2f747365332e6d6d2e62696e672e6e65742f74683f69643d4f49502e7276756a594b4f546d2d2d5654334b545a775633786748614861267069643d417069" />
+<img align="left" alt="C" width="26px" src="http://deserable-hugo.fr/images/c.png" />
 <img align="left" alt="VHDL" width="26px" src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/97/81/2d/97812d68-3a5b-8429-30cb-b1d23df1eafd/source/512x512bb.jpg" />
 <img align="left" alt="Python" width="26px" src="http://www.wikidebrouillard.org/images/7/7d/Notes_personelles_de_Antony_logo-arduino.jpg" />
 <img align="left" alt="Arduino" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
