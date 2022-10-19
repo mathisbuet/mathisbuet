@@ -1,10 +1,10 @@
 ### Hi there, I'm Mathis  👋 
 
-## I'm a third year student in Engineering School : ECE Paris
+## I'm an M1 student at ECE Paris : Engineering School
 ## I'm also an assistant professor in computer science
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - ⚡ Fun fact: I love to run and play strategy board games 
 
 ### Connect with me:
