@@ -1,7 +1,7 @@
 ### Hi there, I'm Mathis  👋 
 
 ## I'm an M1 student at ECE Paris : Engineering School
-## I'm also an assistant professor in computer science
+## I'm also an assistant professor in computer science and electronics
 
 
 - 🌱 I’m currently learning everything 
